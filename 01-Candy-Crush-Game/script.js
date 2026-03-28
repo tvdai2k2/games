@@ -21,13 +21,14 @@ function candyCrushGame() {
     let gameInterval = null;
     let timerInterval = null;
 
+    // Use local images from the images/ folder (01.png through 06.png)
     const candyColors = [
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/red-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/blue-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/green-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/yellow-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/orange-candy.png)",
-        "url(https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/purple-candy.png)",
+        "url('images/01.png')",
+        "url('images/02.png')",
+        "url('images/03.png')",
+        "url('images/04.png')",
+        "url('images/05.png')",
+        "url('images/06.png')",
     ];
 
     // Create the Game Board
