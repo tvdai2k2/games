@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1c2ead6-28c2-47f3-8fef-fd5fcaf0a4d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Pac-Man-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Pac-Man-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-Pac-Man-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Chess-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Chess-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Chess-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Doodle-Jump-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Doodle-Jump-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Doodle-Jump-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Solitaire-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Solitaire-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Solitaire-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-Sudoku-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-Sudoku-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-Sudoku-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-Crossy-Road-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-Crossy-Road-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-Crossy-Road-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Rock-Paper-Scissors/images/paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Rock-Paper-Scissors/images/rock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Rock-Paper-Scissors/images/scissor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Rock-Paper-Scissors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Rock-Paper-Scissors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Rock-Paper-Scissors/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Flappy-Bird-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Flappy-Bird-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-Flappy-Bird-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-2048-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-2048-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-2048-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-Wordle-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-Wordle-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-Wordle-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-Hangman-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-Hangman-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-Hangman-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-Tower-Blocks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-Tower-Blocks/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-Tower-Blocks/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-Archery-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-Archery-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-Archery-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-Tic-Tac-Toe/O-Player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-Tic-Tac-Toe/X-Player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-Tic-Tac-Toe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-Tic-Tac-Toe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-Tic-Tac-Toe/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Minesweeper-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Minesweeper-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Minesweeper-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-Speed-Typing-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-Speed-Typing-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-Speed-Typing-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-Breakout-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-Breakout-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18-Breakout-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-Ping-Pong-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-Ping-Pong-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-Ping-Pong-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-Tetris-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-Tetris-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-Tetris-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-Tilting-Maze-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-Tilting-Maze-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-Tilting-Maze-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/img-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/images/que_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-Memory-Card-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-Type-Number-Guessing-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-Type-Number-Guessing-Game/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-Type-Number-Guessing-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-Snake-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-Snake-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-Snake-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-Connect-Four-Game/icons8-github-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-Connect-Four-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-Connect-Four-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-Connect-Four-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26-Insect-Catch-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26-Insect-Catch-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26-Insect-Catch-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-Typing-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-Typing-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-Typing-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-Dice-Roll-Simulator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-Dice-Roll-Simulator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-Dice-Roll-Simulator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29-Shape-Clicker-Game/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29-Shape-Clicker-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29-Shape-Clicker-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30-Typing-Game/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30-Typing-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30-Typing-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31-Speak-Number-Guessing-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31-Speak-Number-Guessing-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31-Speak-Number-Guessing-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-Fruit-Slicer-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-Fruit-Slicer-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-Fruit-Slicer-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33-Quiz-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33-Quiz-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33-Quiz-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-Emoji-Catcher-Game/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-Emoji-Catcher-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-Emoji-Catcher-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35-Whack-A-Mole-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35-Whack-A-Mole-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35-Whack-A-Mole-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-Simon-Says-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-Simon-Says-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-Simon-Says-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37-Sliding-Puzzle-Game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37-Sliding-Puzzle-Game/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37-Sliding-Puzzle-Game/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_E:/Entertainment/Game/AllGames/games" value="3BYtwqkxco8emx5J9y87vab98OH" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tvdai2k2&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tvdai2k2/games.git&quot;,
+    &quot;accountId&quot;: &quot;d5e4052d-b600-4845-919a-1a568f0c3551&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3BYtwqkxco8emx5J9y87vab98OH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Entertainment/Game/AllGames/games",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Entertainment\Game\AllGames\games" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.33" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1c2ead6-28c2-47f3-8fef-fd5fcaf0a4d0" name="Changes" comment="" />
+      <created>1774678074559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774678074559</updated>
+      <workItem from="1774678080866" duration="902000" />
+      <workItem from="1774679009560" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
